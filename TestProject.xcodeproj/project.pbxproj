@@ -11,6 +11,7 @@
 		CEAC6E302C72548F007EE6F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAC6E2F2C72548F007EE6F1 /* ContentView.swift */; };
 		CEAC6E322C725492007EE6F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEAC6E312C725492007EE6F1 /* Assets.xcassets */; };
 		CEAC6E362C725492007EE6F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEAC6E352C725492007EE6F1 /* Preview Assets.xcassets */; };
+		CEAC6E3F2C764850007EE6F1 /* SwiftUIView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAC6E3E2C764850007EE6F1 /* SwiftUIView1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		CEAC6E312C725492007EE6F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEAC6E332C725492007EE6F1 /* TestProject.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TestProject.entitlements; sourceTree = "<group>"; };
 		CEAC6E352C725492007EE6F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CEAC6E3E2C764850007EE6F1 /* SwiftUIView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				CEAC6E2D2C72548F007EE6F1 /* TestProjectApp.swift */,
 				CEAC6E2F2C72548F007EE6F1 /* ContentView.swift */,
 				CEAC6E312C725492007EE6F1 /* Assets.xcassets */,
+				CEAC6E3E2C764850007EE6F1 /* SwiftUIView1.swift */,
 				CEAC6E332C725492007EE6F1 /* TestProject.entitlements */,
 				CEAC6E342C725492007EE6F1 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEAC6E3F2C764850007EE6F1 /* SwiftUIView1.swift in Sources */,
 				CEAC6E302C72548F007EE6F1 /* ContentView.swift in Sources */,
 				CEAC6E2E2C72548F007EE6F1 /* TestProjectApp.swift in Sources */,
 			);
